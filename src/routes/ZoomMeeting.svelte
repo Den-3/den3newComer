@@ -6,20 +6,20 @@
     const meetingDatas = [
         {
             title: "第1回",
-            date: "4/3(木) 20:00~",
-            content: "2025年度 電子計算機研究会 新入生説明会",
-            meetingUrl: "https://shibaura-it.zoom.us/j/96109677103?pwd=APhpHOiKkXVFtgkhp0HJ5IQksP2cr6.1"
+            date: "4/8(水) 20:00~",
+            content: "2026年度 電子計算機研究会 新入生説明会",
+            meetingUrl: "https://shibaura-it.zoom.us/j/98258863232"
         },
         {
             title: "第2回",
             date: "4/11(金) 20:00~",
-            content: "2025年度 電子計算機研究会 新入生説明会",
+            content: "2026年度 電子計算機研究会 新入生説明会",
             meetingUrl: "https://shibaura-it.zoom.us/j/94503559378?pwd=eFSyuuyLcvk77RuDAIIBfbO7IWdsrj.1"
         },
         {
             title: "第3回",
             date: "4/20(日) 20:00~",
-            content: "2025年度 電子計算機研究会 新入生説明会",
+            content: "2026年度 電子計算機研究会 新入生説明会",
             meetingUrl: "https://shibaura-it.zoom.us/j/98604222756?pwd=Ywrk1a6ZCG5BcSl5d1MWb4Q6bys6vI.1"
         },
     ]
