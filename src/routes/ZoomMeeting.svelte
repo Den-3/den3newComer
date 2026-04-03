@@ -28,7 +28,7 @@
 
 
 <h2>Zoom説明会日程</h2>
-<p>2025年度の説明会はZoomで行います．全3回を予定</p>
+<p>2026年度の説明会はZoomで行います．全3回を予定</p>
 <div class="buttons">
     {#each meetingDatas as meeting, i}
         <HoverButton text={meeting.title} isSelected={i === index} onclick={() => {index = i}}></HoverButton>
