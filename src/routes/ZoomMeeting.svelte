@@ -14,13 +14,13 @@
             title: "第2回",
             date: "4/17(金) 20:00~",
             content: "2026年度 電子計算機研究会 新入生説明会",
-            meetingUrl: "https://shibaura-it.zoom.us/j/94503559378?pwd=eFSyuuyLcvk77RuDAIIBfbO7IWdsrj.1"
+            meetingUrl: "https://shibaura-it.zoom.us/j/99543739567"
         },
         {
             title: "第3回",
             date: "4/24(日) 20:00~",
             content: "2026年度 電子計算機研究会 新入生説明会",
-            meetingUrl: "https://shibaura-it.zoom.us/j/98604222756?pwd=Ywrk1a6ZCG5BcSl5d1MWb4Q6bys6vI.1"
+            meetingUrl: "https://shibaura-it.zoom.us/j/91386589930"
         },
     ]
     let index = $state(2)
