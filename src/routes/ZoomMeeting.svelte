@@ -23,7 +23,7 @@
             meetingUrl: "https://shibaura-it.zoom.us/j/91386589930"
         },
     ]
-    let index = $state(2)
+    let index = $state(0)
 </script>
 
 
@@ -41,10 +41,6 @@
         <a href={meetingDatas[index].meetingUrl} target="_blank">ZoomMeetingに参加する</a>
     </section>
 {/key}
-
-<p>全3回のZoom説明会は終了しました．Zoom説明会で使用した，資料を公開します．</p>
-
-<embed src="/den3newComer/newComerSlide.pdf" type="application/pdf">
 
 
 <p>電算はいつでも新入部員を歓迎します．メールで連絡いただければ，対応いたします．</p>
