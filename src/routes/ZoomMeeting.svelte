@@ -29,7 +29,9 @@
 
 <h2>Zoom説明会日程</h2>
 <p>2026年度の説明会はZoomで行います．全3回を予定</p>
-<p>大学のアカウント(shibaura-it.ac.jp)で参加して下さい</p>
+<p>セキュリティおよび参加者確認のため、今回の説明会は大学のアカウントに限定しています。
+必ず**大学のメールアドレス（...@shibaura-it.ac.jp）でZoomにサインイン（ログイン）**してから、参加リンクをクリックしてください。
+※個人のアカウント（通常のGmailなど）では参加できない設定になっていますのでご注意ください。</p>
 <div class="buttons">
     {#each meetingDatas as meeting, i}
         <HoverButton text={meeting.title} isSelected={i === index} onclick={() => {index = i}}></HoverButton>
