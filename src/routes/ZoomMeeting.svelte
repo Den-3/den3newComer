@@ -50,6 +50,13 @@
 <p>Zoom説明会に参加できない方は相談からでも連絡いただいて大丈夫です．</p>
 <div class="email-box">電算公式メールアドレス：<br><strong>den3.shibaura@gmail.com</strong></div>
 
+<p>また、電算の活動内容ついては、こちらの紹介動画でもご覧いただけます．</p>
+<div class="youtube">
+    <p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7EBLi26g6Xs?si=30zcjFRW1hO9gNIm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </p>
+</div>
+
 <style>
     .email-box {
         background-color: #e3f2fd;
@@ -83,5 +90,17 @@
     embed {
         width: 100%;
         aspect-ratio: 16/10;
+    }
+
+    .youtube{
+        width: 100%;
+        max-width: 570px;
+        aspect-ratio: 16 / 9;
+        margin: 0 auto;
+    }
+
+    .youtube iframe{
+        width: 100%;
+        border: none;
     }
 </style>
