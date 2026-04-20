@@ -1,6 +1,7 @@
 <script>
     import ZoomMeeting from "./ZoomMeeting.svelte";
     import Activity from "./Activity.svelte";
+    import Join from "./Join.svelte";
 </script>
 
 <header>
@@ -18,6 +19,10 @@
 
     <section>
         <ZoomMeeting></ZoomMeeting>
+    </section>
+
+    <section>
+        <Join></Join>
     </section>
 
     <section>
